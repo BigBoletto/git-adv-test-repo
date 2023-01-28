@@ -42,3 +42,4 @@ string[] array = {"se", "ewwef", "sfwetrt", "343", "dfsd", "ddfz", "ed", "r", "r
 string[] array2 = LessThan4CharsArray(array);
 // распечатываем результат
 PrintArray(array2);
+// итог  [ se 343 ed r rf ]
